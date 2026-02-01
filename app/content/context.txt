@@ -1,0 +1,15 @@
+Context:
+
+What is the platform?
+It is a complete Learning Management System which is able to run SCORM complaint courses, track user progress, manage coaching sessions, give feedbacks and do wide range of reporting. The system is designed to assess the user, identify the skill gap, train and give feedbacks to promote healthy learning experience. The platform is designed such that it can be extended and used by multiple tenants.
+
+Who uses the platform?
+The platform is used by businesses that wants to assess and train their internal staff.
+
+Rough scale?
+The platform has been used by more than 10 thousands users.
+
+My role?
+I was responsible for implementing features, extending and maintaining the system, build courses and assessments, building reporting system and making sure system is secure.
+
+

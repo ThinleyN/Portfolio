@@ -1,0 +1,16 @@
+What made this system hard?
+- The system is built on a legacy framework. 
+- It is a huge enterprise level of platform so introducing new methods were not straight forward. 
+- Learning curve of the system is steep.
+
+Why multi-tenancy was non-trivial?
+- The system is able to run multiple tenancy on a single code base so each changes need to be made carefully as it can affect another tenants.
+- Different tenants used different ways of authentications.
+
+What was breaking / risky / slow?
+- Adding new tenants and new features were difficult.
+- Shipping new features to tenants is manual and slow.
+
+Why a naive solution wouldn’t work?
+- Since the system is huge, any changes would have a direct/indirect impacts on other areas of the system.
+- It should be maintainable and sustainable for a long run.
